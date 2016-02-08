@@ -1,7 +1,27 @@
 rect:hover{
-	fill:lightgreen;
+	opacity: 0.2;
 }
 
-#c{
+path:hover{
+	opacity: 0.5;
+}
+
+#color{
+	width: 20px;
+	height: 20px;
+	float: left;
+}
+
+.main{
+	display: inline;
+}
+
+#pie{
+	width: 600px;
 	float: right;
 }
+#bar{
+	width: 800px;
+	float: left;
+}
+
