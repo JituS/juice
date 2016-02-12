@@ -9,7 +9,7 @@ path:hover{
 #color{
 	width: 20px;
 	height: 20px;
-	float: left;
+	/*float: left;*/
 }
 
 .main{
@@ -18,10 +18,10 @@ path:hover{
 
 #pie{
 	width: 600px;
-	float: right;
+	/*float: right;*/
 }
 #bar{
 	width: 800px;
-	float: left;
+	/*float: left;*/
 }
 
